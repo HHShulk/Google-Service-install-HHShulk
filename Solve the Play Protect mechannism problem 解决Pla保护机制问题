@@ -1,0 +1,12 @@
+Turn on airplane mode and turn off Wifi 开启飞行模式并关闭Wifi
+Open Phone Manager > App Launcher Management> Four Dout > Show System Apps  App Launcher Management > Search Google  Change Google's four-piece set to manual management,and turn on all three switches 打开手机管家>应用启动管理>四个点>显示系统应用   应用启动管理>搜索Google 将Google四件套改成手动管理，三个开关都开
+First clear up the data of Google Servise Framework and then stop running it 先把Google服务框架的数据清理掉，然后停止运行
+Then clear the cache of Google Play Services and stop running it 再把Google Play服务的缓存清理掉，然后停止运行
+Finally,clear the data of Google Play Store and stpo running it 最后把Google Play商店的数据清理掉，然后停止运行
+Restart your device 重启设备
+After restarting the device,clear the data of Google Play Services(Storage > Manage Space > Clear All Data at the bottom)and stop running 重启设备后，清除Gooogle Play服务的数据（储存>管理空间>最下面的清楚所有数据）并停止运行
+Restart the device again 再次重启设备
+After restartingthe device,turn off airplane mode and turn on Wifi 重启设备后，关闭飞行模式，打开Wifi
+Open the Play Store,click on your profile picture > Settings > Auto-update apps Change Auto-update to Do not auto-update apps 打开Play商店，点头像>设置>自动更新应用 自动更新应用改成不自动更新应用
+Uninstall Google Play Services 卸载Google Play服务
+Download z5service.apk and install 下载z5service.apk并安装
